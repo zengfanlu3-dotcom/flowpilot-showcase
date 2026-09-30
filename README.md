@@ -4,9 +4,9 @@
 
 FlowPilot 是面向企业 IT 支持场景的受控 AI Agent 原型：模型理解问题并建议下一步，程序核对事实、权限和状态；知识回答需要来源依据；固定评测同时检查模型判断和最终产品行为。
 
-**Live Demo：尚未部署** · [60–90 秒演示脚本](docs/DEMO_VIDEO_SCRIPT.md) · [架构说明](docs/ARCHITECTURE.md) · [冻结评测摘要](docs/FROZEN_EVIDENCE_SUMMARY.md)
+**[Live Demo](https://flowpilot-ai-agent.onrender.com)** · [60–90 秒演示脚本](docs/DEMO_VIDEO_SCRIPT.md) · [架构说明](docs/ARCHITECTURE.md) · [冻结评测摘要](docs/FROZEN_EVIDENCE_SUMMARY.md)
 
-> 这是**不含完整 Prompt 的公开展示仓库**，并非可独立运行的完整源码。完整服务端代码保留在私有部署仓库。当前没有真实公网 Demo 或视频 URL；发布后才会添加经过验收的链接。
+> 这是**不含完整 Prompt 的公开展示仓库**，并非可独立运行的完整源码。完整服务端代码保留在私有部署仓库。上方 Live Demo 已部署；演示时请勿输入密码、验证码或企业敏感信息。
 
 ## 为什么做
 
